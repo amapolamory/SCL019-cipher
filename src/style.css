@@ -1,0 +1,181 @@
+body{
+    /* background: linear-gradient(90deg,#4B09B8 ,#8207B4 ,#D58DF2 ,#DD2EA0);  */
+    min-width: 100vh;
+    min-height: 100vh;
+    font-family: 'Allerta Stencil';
+    padding-top: 3px;
+   
+    
+} 
+html{/*puedes llamar al doc html igual que a un body*/
+     
+     background: url(https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1507&q=80) no-repeat center center fixed; 
+     /* -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover; */
+    background-size: cover;
+    scroll-behavior: smooth;
+      
+}
+ 
+details{
+    display: flex;
+    flex-direction: column;
+    float:left;
+
+}
+
+.titleone{
+    text-align: center;
+    color:#fff1a1;
+    font-size: 60px;
+    font-family: 'Allerta Stencil';
+    border-color: black;
+}
+
+.seccone{
+    padding: 7em;
+    padding-top: 5px;
+    padding-left: 12em;
+    min-width: 100vh;
+    min-height: 100vh;
+    top:0;
+    left:0;
+    
+
+    
+    
+}
+
+.instructions{
+padding-left: 80px;
+margin-left:5px;
+font-size: 23px;
+font-family: 'Allerta Stencil';
+
+
+}
+
+#textuno{
+    padding-left: 4px;
+    text-align: left;
+    margin-left: 63px;
+    background-color: #fade77c1;
+    /* font-family: 'Allerta Stencil'; */
+    border-radius: 10px;
+    box-shadow: 0 3px 25px rgb(0 0 0 / 0.7);
+}
+
+
+ .instructionstwo{
+    padding-left: 80px;
+    margin-left:5px;
+    font-size: 23px;
+    font-family: 'Allerta Stencil';
+    
+    
+    } 
+ #textdos{
+    padding-left: 4px;
+    text-align: left;
+    margin-left: 63px;
+    background-color: #fade77c1;
+    /* font-family: 'Allerta Stencil';*/
+    border-radius: 10px;
+    box-shadow: 0 3px 25px rgb(0 0 0 / 0.7);
+}  
+
+#displacement{
+    width: 62px;
+    height: 40px;
+    padding-left:94px ; 
+    margin-left: 73%;
+    box-sizing: content-box;
+    position: relative;
+    bottom:700px;
+    font-size:large;
+    left:109px;
+    background-color:#fade77;
+    color:black;
+    border-radius: 10px;
+    
+
+  
+   
+
+}
+
+.cipherButtons{
+    margin-top:60px;
+    padding-top: 100px;
+    left: 50px;
+    position: relative ;
+    bottom: 500px;
+    
+}
+
+#cipher{
+   
+  width:80px;
+  height:25px;
+  position: relative;
+  bottom:680px;
+  padding-left: 100px;
+  padding: 25px 40px;
+  text-align: center;
+  box-sizing: content-box;
+  font-size: x-large;
+  box-shadow: #b794c5;
+  left: 794px;
+  background-color: #fade77;
+  font-family: 'Allerta Stencil';
+  color:black;
+  border-radius: 10px;
+  /* background: #f2db88; */
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.7);
+  
+  
+}
+#decipher{
+    width:80px;
+    height:25px;
+    position: relative;
+    bottom: 580px;
+    left: 625px;
+    padding: 25px 40px;
+    text-align:left;
+    box-sizing: content-box;
+    font-size: x-large;
+    font-family: 'Allerta Stencil';
+    background-color: #fade77;
+    color:black;
+    border-radius: 10px;
+    /* background: #f2db88; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+    
+}
+
+.test{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+}
+.btn-send{
+   
+    align-self: center;
+    /* align-self: center; */
+    background-color: #fade77;  
+    width:60px;
+    height: 50px;
+    text-align: center;
+    font-size: larger;
+    margin:0% 20% 0% 20%; 
+    padding:20px 40px 5px;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(48, 25, 25, 0.4);
+
+   
+
+}
