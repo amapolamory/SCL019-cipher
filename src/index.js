@@ -30,18 +30,32 @@ import cipher from './cipher.js';
       }
      }, true);
 
-     document.getElementById("sendIt").addEventListener("click",function(){
-       let name =document.getElementById("nombre").value;
-       let mail= document.getElementById("correo").value;
-       if(name==='') { 
-         alert('No has puesto el nombre de tu destinatario')
-       }
-       else if(mail===''){
-         alert('Se necesita un correo para poder enviar tu mensaje')
-       }
-      },true);
-       
-      
+    //  document.getElementById("sendIt").addEventListener("clik", function(){
+
+    //   let name=document.getElementById("nombre");
+    //   let mail=document.getElementById("correo");
+    //   if((name!='') && (mail!='' )){ 
+    //     alert ('tu mensaje ha sido enviado con exito')
+    //   }
+    //   else{
+    //     alert('Debes rellenar los campos requeridos')
+    //   }
+    //  })
+     
+    
+    //  document.getElementById("sendIt").addEventListener("click",function(){
+    //    let name =document.getElementById("nombre").value;
+    //    let mail= document.getElementById("correo").value;
+    //    if(name==='') { 
+    //      alert('No has puesto el nombre de tu destinatario')
+    //    }
+    //    else if(mail===''){
+    //      alert('Se necesita un correo para poder enviar tu mensaje')
+    //    }
+
+    //   },true);
+    
+    
 
 
 

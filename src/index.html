@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="Refresh" content="2; url=src/index.html">
+
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Allerta Stencil" rel="stylesheet">
@@ -15,7 +17,7 @@
 <details>
   <summary>Instrucciones</summary>
   <p>Hola, en esta pagina puedes  cifrar un  texto para  enviarlo a tus amigos del espacio exterior. Puedes ingresar el texto  que quieres cifrar o decifrar en la primera cajita <br> de texto, luego le das un numero por el 
-     cual quieres desordenar las letras en el primer botón y luego le das al boton de cifrar o decifrar.Tu mensaje debe estar en mayusculas para que se cifre. </p>
+     cual quieres desordenar las letras en el primer botón que es el offset, el cual deslaza el abecedario una cantidad de numeross y luego le das al boton de cifrar o decifrar.Tu mensaje debe estar en mayusculas para que se cifre. </p>
   
 </details>
 
@@ -26,7 +28,7 @@
         <h3 class="instructionstwo">Este es tu mensaje decifrado listo para enviar en la <br> nave espacial</h3>
       <textarea name="textone" id="textdos" cols="80" rows="20" ></textarea>
 
-      <input type="number" id="displacement">
+      <input type="number" id="displacement" placeholder="offset">
        <input type="button" id="cipher" value="Cifrar" class="">
       <input type="button" id="decipher" value="Descifrar">
 
