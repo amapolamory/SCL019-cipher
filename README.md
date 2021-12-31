@@ -464,11 +464,8 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Permite usar un `offset` negativo. -->
 # Cifrado Epacial
 
-(C:\Users\Amapola\OneDrive\Imágenes\Capturas de pantalla\2021-12-27 (9).png)
-(C:\Users\Amapola\OneDrive\Imágenes\Capturas de pantalla\2021-12-27 (10).png)
-(C:\Users\Amapola\Desktop\2021-12-27 (6).png)
 
-
+(https://drive.google.com/file/d/1iAdODXSNiC-hp3-BKUvdE5nifrwHRqX7/view?usp=sharing)
 
 ## Proposito de la aplicacion
 Esta aplicacion esta diseñada para cifrar y decifrar textos mediante el metodo de cifrado césar.
