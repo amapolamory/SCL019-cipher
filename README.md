@@ -466,6 +466,9 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 
 
 (https://drive.google.com/file/d/1iAdODXSNiC-hp3-BKUvdE5nifrwHRqX7/view?usp=sharing)
+(https://drive.google.com/file/d/1oSGkbfOdMFjgqHPIPwSVBVREcNBlwlD9/view?usp=sharing)
+(https://drive.google.com/file/d/1ek3XaK5E0_x0mjbguNGpM99LF5fWoIx-/view?usp=sharing)
+
 
 ## Proposito de la aplicacion
 Esta aplicacion esta diseñada para cifrar y decifrar textos mediante el metodo de cifrado césar.
