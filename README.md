@@ -471,12 +471,12 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 
 
 ## Proposito de la aplicacion
-Esta aplicacion esta diseñada para cifrar y decifrar textos mediante el metodo de cifrado césar.
-La pagina se llama Cifrado Espacial y esta hecha para usuarios jovenes y adultos, y su utilidad es de cifrar un texto y luego poder enviarlo a un amigx y tambien de poder decifrar un mensaje que te hayan enviado.
+Esta aplicación esta diseñada para cifrar y decifrar textos mediante el metodo de cifrado césar.
+La página se llama Cifrado Espacial y esta hecha para usuarios jovenes y adultos, y su utilidad es de cifrar un texto y luego poder enviarlo a un amigx y también de poder decifrar un mensaje que te hayan enviado.
 
 ## Estructura
-Está compueta por dos HTML, el index es la pagina en la que el usuario podraa escribir su texto y cifrarlo o decifrarlo, en esta hay una pestaña de instrucciones, para que el usuarix se familiarice con la pagina, hay dos areas de texto la primera es en la que el usuario entrega el texto y la otra en la que aparece el mensaje cifrado o decifrado,un boton para seleccionar el desplazamiento, un boton con la funcion de cirfrar el mensaje, un boton para decifrar y finalmente un boton para llevarte a la pagina de envio.
-Si el usuario presiona el boton  de decifrar o de cifrar sin que haya un mensaje o texto en el area de texto, aparecera una alert que dice que aun no se ingresa un mensaje.
+Está compueta por dos HTML, el index es la página en la que el usuario podrá escribir su texto y cifrarlo o decifrarlo, en esta hay una pestaña de instrucciones, para que el usuarix se familiarice con la página, hay dos áreas de texto la primera es en la que el usuario entrega el texto y la otra en la que aparece el mensaje cifrado o decifrado,un botón para seleccionar el desplazamiento, un botón con la funcion de cirfrar el mensaje, un boton para decifrar y finalmente un botón para llevarte a la página de envío.
+Si el usuario presiona el botón  de decifrar o de cifrar sin que haya un mensaje o texto en el área de texto, aparecera una alert que dice que aún no se ingresa un mensaje.
 
 ## Pruebala tu mism@
-puedes ingresar a la pagina a traves de este link (https://amapolamory.github.io/SCL019-cipher/src/index.html)
+Puedes ingresar a la página a través de este link (https://amapolamory.github.io/SCL019-cipher/src/index.html)
